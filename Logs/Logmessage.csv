@@ -409,3 +409,33 @@
 10/06/23 05:40:08 P:INFO:7
 10/06/23 05:40:08 P:INFO:Number of Rows in a Excel:
 10/06/23 05:40:08 P:INFO:4
+10/09/23 04:07:42 P:INFO:====== WebDriver manager ======
+10/09/23 04:07:43 P:INFO:Get LATEST chromedriver version for google-chrome
+10/09/23 04:07:43 P:INFO:Get LATEST chromedriver version for google-chrome
+10/09/23 04:07:43 P:INFO:Get LATEST chromedriver version for google-chrome
+10/09/23 04:07:43 P:INFO:WebDriver version 117.0.5938.149 selected
+10/09/23 04:07:43 P:INFO:Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.149/mac-x64/chromedriver-mac-x64.zip
+10/09/23 04:07:43 P:INFO:About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.149/mac-x64/chromedriver-mac-x64.zip
+10/09/23 04:07:43 P:INFO:Driver downloading response is 200
+10/09/23 04:07:44 P:INFO:Get LATEST chromedriver version for google-chrome
+10/09/23 04:07:44 P:INFO:Driver has been saved in cache [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/117.0.5938.149]
+10/09/23 04:07:49 P:INFO:====== WebDriver manager ======
+10/09/23 04:07:49 P:INFO:Get LATEST chromedriver version for google-chrome
+10/09/23 04:07:49 P:INFO:Get LATEST chromedriver version for google-chrome
+10/09/23 04:07:49 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/117.0.5938.149/chromedriver-mac-x64/chromedriver] found in cache
+10/09/23 04:07:52 P:INFO:Number of Rows in a Excel:
+10/09/23 04:07:52 P:INFO:7
+10/09/23 04:07:52 P:INFO:Number of Rows in a Excel:
+10/09/23 04:07:52 P:INFO:4
+10/09/23 04:09:36 P:INFO:====== WebDriver manager ======
+10/09/23 04:09:36 P:INFO:Get LATEST chromedriver version for google-chrome
+10/09/23 04:09:36 P:INFO:Get LATEST chromedriver version for google-chrome
+10/09/23 04:09:37 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/117.0.5938.149/chromedriver-mac-x64/chromedriver] found in cache
+10/09/23 04:09:40 P:INFO:====== WebDriver manager ======
+10/09/23 04:09:40 P:INFO:Get LATEST chromedriver version for google-chrome
+10/09/23 04:09:40 P:INFO:Get LATEST chromedriver version for google-chrome
+10/09/23 04:09:41 P:INFO:Driver [/Users/ticvictech/.wdm/drivers/chromedriver/mac64/117.0.5938.149/chromedriver-mac-x64/chromedriver] found in cache
+10/09/23 04:09:43 P:INFO:Number of Rows in a Excel:
+10/09/23 04:09:43 P:INFO:7
+10/09/23 04:09:43 P:INFO:Number of Rows in a Excel:
+10/09/23 04:09:43 P:INFO:4
