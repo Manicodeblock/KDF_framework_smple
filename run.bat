@@ -1,1 +1,0 @@
-pytest -s -v testcases/test_kdt.py

@@ -1,0 +1,5 @@
+here requirements.txt files contains which the dependencies of project this is example dependencies
+may this project no need many depencies in this files
+
+after create this files we have to execute the following command to instal all this dependencies in a single execution
+
