@@ -20,8 +20,12 @@ def setup(browser):
         driver = webdriver.Firefox(executable_path="/home/ticvictech/Project_IBS/Drivers/geckodriver")
         print("Launching Firefox browser")
     else:
+        chrome_options = webdriver.ChromeOptions()
+        chrome_options.add_argument('headless')
+        service_obj = Service(ChromeDriverManager().install())
+        driver = webdriver.Chrome(service=service_obj, options=chrome_options)
         print("empty")
-        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+        # driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
         #driver = webdriver.Chrome(executable_path="/home/ticvictech/manikandan/PycharmProjects/Sixvercel_project/Drivers/chromedriver")
     return driver
 

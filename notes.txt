@@ -3,3 +3,9 @@ may this project no need many depencies in this files
 
 after create this files we have to execute the following command to instal all this dependencies in a single execution
 
+pip3 install -r requirement.txt
+
+After executing this command all this dependencies are will execute
+
+
+
